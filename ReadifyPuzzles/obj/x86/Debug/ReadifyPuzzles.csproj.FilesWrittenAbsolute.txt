@@ -1,0 +1,5 @@
+/Users/kronik/Projects/ReadifyPuzzles/ReadifyPuzzles/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/kronik/Projects/ReadifyPuzzles/ReadifyPuzzles/bin/Debug/ReadifyPuzzles.exe.mdb
+/Users/kronik/Projects/ReadifyPuzzles/ReadifyPuzzles/bin/Debug/ReadifyPuzzles.exe
+/Users/kronik/Projects/ReadifyPuzzles/ReadifyPuzzles/obj/x86/Debug/ReadifyPuzzles.exe
+/Users/kronik/Projects/ReadifyPuzzles/ReadifyPuzzles/obj/x86/Debug/ReadifyPuzzles.exe.mdb

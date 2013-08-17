@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadifyPuzzles/Tests/WordsManagerTest.cs">
+    <Files>
+      <File FileName="ReadifyPuzzles/WordsManager.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/Program.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/ListManager.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/TrianglesManager.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/Tests/TriangleManagerTest.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/Tests/ListManagerTest.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/TriangleTypes.cs" Line="1" Column="1" />
+      <File FileName="ReadifyPuzzles/Tests/WordsManagerTest.cs" Line="108" Column="3" />
+      <File FileName="ReadifyPuzzles/ListNode.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ReadifyPuzzles" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ListManagerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True">
+          <Node name="ReadifyPuzzles" expanded="True">
+            <Node name="ReadifyPuzzles" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
